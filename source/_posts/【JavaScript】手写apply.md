@@ -1,3 +1,5 @@
+# 【JavaScript】手写apply
+
 和手写call十分相似，建议先了解手写call
 
 ## apply的描述
